@@ -298,7 +298,7 @@ footer a:not(.nav-link) {
 
 #game-window {
   width: 67vw;
-  height: 70.75vh; /* Adjust as needed */
+  height: 37.85vw;
   margin: auto;
   border-radius: 35px;
   overflow: hidden;
